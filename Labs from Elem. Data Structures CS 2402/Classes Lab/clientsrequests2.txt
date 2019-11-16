@@ -1,0 +1,6 @@
+Mountain Bike,   Model 3c07, blue,   8
+Mountain Bike,   Model 4b12,  green, 10
+Road Bike,   Model 452X,   black,   5
+Road Bike,   Model d523,   blue, 5
+City Bike,   Model C123,   purple, 7
+City Bike,   Model E576,   white, 3
