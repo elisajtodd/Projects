@@ -1,0 +1,4 @@
+This program finds the kth smallest element in a list. If k==0, select(L,k) returns the
+smallest element in list L, if k==1 it returns the second smallest, and so on. This lets the user decide
+which method to use to fin the kth element. The user inputs the size of the list and the program randomly
+generates one.
