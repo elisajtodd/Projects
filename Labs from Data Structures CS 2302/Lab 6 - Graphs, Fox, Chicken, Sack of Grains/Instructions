@@ -1,0 +1,2 @@
+Solves the fox, chicken, grains crossing the river problem. Implementing
+graphs on three versions of it with two search algorithms (breadth first and depth first)
