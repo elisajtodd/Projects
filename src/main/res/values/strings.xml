@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Games</string>
+    <string name="sudoku">Sudoku</string>
+    <string name="crossword">Crossword</string>
+    <string name="solve">Solve</string>
+    <string name="reset">Reset</string>
+    <string name="blank"></string>
+    <string name="new_sudoku">New Sudoku</string>
+</resources>
