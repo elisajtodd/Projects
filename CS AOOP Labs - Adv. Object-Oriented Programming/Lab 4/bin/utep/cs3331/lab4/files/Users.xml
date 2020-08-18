@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Users>
+  <user>
+    <name>Elisa</name>
+    <expertise_level>Medium</expertise_level>
+    <color>white</color>
+    <games>
+      <id>fmjuff86</id>
+      <id>htiybx07</id>
+    </games>
+  </user>
+  <user>
+    <name>Ali</name>
+    <expertise_level>Advanced</expertise_level>
+    <color>black</color>
+    <games />
+  </user>
+</Users>

@@ -1,0 +1,6 @@
+Pawn, white, B, 2
+Queen, white, D, 1
+Rook, white, A, 1
+Knight, white, B, 1
+Bishop, white, C, 1
+King, white, E, 1
