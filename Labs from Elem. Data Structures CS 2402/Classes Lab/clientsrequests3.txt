@@ -1,6 +1,0 @@
-Mountain Bike, Model 34t1, red ,8
-Mountain Bike,   Model 4b12,  green,4
-Road Bike,   Model 87j2,   white,  5
-Road Bike,   Model d523,   blue, 4
-City Bike,   Model 5G68,   black, 7
-City Bike,   Model E576,   white, 2
